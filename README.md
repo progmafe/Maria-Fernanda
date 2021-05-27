@@ -12,8 +12,9 @@ Eu me vejo como uma pessoa de enorme potencial e entendo que preciso mostrar iss
     Acredito que todos tem a capacidade de programar mas o essencial para isso é o amor pela programação e o amor por programar. Por isso, mesmo iniciante, sei que estou aqui para somar e muito!
 Atualmente estou buscando minha primeira oportunidade e para isso tenho dedicado meu tempo a cursos voltados pra desenvolvimento e projetos práticos pra aplicar o que tenho estudado. ←
 
+### Até mais! 💚
+
+![7wD7](https://user-images.githubusercontent.com/76748367/119770337-6db4cc00-be92-11eb-8e35-e62aa5a361d0.gif)
 
 
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=progmafe)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maria-fernanda-cruz-bueno/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_cruzbueno_/)
