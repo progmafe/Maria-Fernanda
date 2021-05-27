@@ -1,10 +1,9 @@
-
+![cartãodevisita](https://user-images.githubusercontent.com/76748367/119769669-398cdb80-be91-11eb-9993-85127ac5b179.png)
 
 ### Olá Mundo!
 
-🍄  Me chamo Maria Fernanda, mas pode chamar de Mafe, tenho 24 anos e sou estudante de Desenvolvimento de Sistemas.
-
-🍄  Atualmente as principais linguagens que programo são C#| PHP| JavaScript.
+🍄  Me chamo Maria Fernanda, mas pode chamar de Mafe, tenho 24 anos e sou estudante de Desenvolvimento de Sistemas
+🌿  Atualmente as principais linguagens que utilizo são C#|PHP|JavaScript
 
  →  Eu comecei na área da programação recentemente com o desejo de melhorar minhas habilidades tecnológicas e profissionais mas mais ainda com o desejo de evoluir em questões de maturidade, organização e determinação.
 Eu me vejo como uma pessoa de enorme potencial e entendo que preciso mostrar isso para mim e para o mundo. Acredito que a programação entrou na minha vida exatamente para isso, me ajudar a ser mais ágil e focada em evoluir.
