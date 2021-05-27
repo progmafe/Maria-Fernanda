@@ -20,5 +20,9 @@ Elon Musk
 
 ![7wD7](https://user-images.githubusercontent.com/76748367/119770337-6db4cc00-be92-11eb-8e35-e62aa5a361d0.gif)
 
+#### Contatos
+[<img src="https://img.shields.io/badge/-YAHOO!-blueviolet" />](mailto:fernandacruz_bueno@yahoo.com.br) 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maria-fernanda-cruz-bueno/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_cruzbueno_/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maria-fernanda-cruz-bueno/) 
+
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_cruzbueno_/)
