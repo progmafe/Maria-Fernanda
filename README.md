@@ -12,9 +12,6 @@ Desde a primeira vez que vi programadores preocupados e ansiosos com os erros, p
 Acredito que todos tem a capacidade de programar mas o essencial para isso é o amor pela programação e o amor pelo que se faz. Por isso, mesmo iniciante, sei que estou aqui para somar e muito!
 Atualmente estou buscando minha primeira oportunidade e para isso tenho dedicado meu tempo a cursos voltados para desenvolvimento e projetos práticos para aplicar o que tenho estudado. ←
 
-<blockquote> Fracasso é uma possibilidade. Se as coisas não estão fracassando, você não está inovando o suficiente.</blockquote>
-Elon Musk
- 
 ### Até mais! 🤍
  
 
