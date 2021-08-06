@@ -10,7 +10,7 @@
 Eu me vejo como uma pessoa de enorme potencial e acredito que a programação entrou na minha vida exatamente para isso melhorar minha tomada de decisão e foco.
 Desde a primeira vez que vi programadores preocupados e ansiosos com os erros, procurando constantemente como resolve-los e o alivio e felicidade ao conseguir, percebi que estava destinada a isso. Essa paixão que vi neles me cativou e despertou em mim o mesmo sentimento; o sentimento de ser capaz e de ser útil. Despertou em mim o sentimento de determinação.
 Acredito que todos tem a capacidade de programar mas o essencial para isso é o amor pela programação e o amor pelo que se faz. Por isso, mesmo iniciante, sei que estou aqui para somar e muito!
-Atualmente estou buscando minha primeira oportunidade e para isso tenho dedicado meu tempo a cursos voltados para desenvolvimento e projetos práticos para aplicar o que tenho estudado. ←
+Atualmente sou programadora Front-end Jr. Na Artmaker e continuo estudando e fazendo cursos para um dia ser programadora sênior. ←
 
 ### Até mais! 🤍
  
