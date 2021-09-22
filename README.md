@@ -4,12 +4,12 @@
 
 🍄  Me chamo Maria Fernanda, tenho 25 anos, sou estudante do terceiro semestre de Desenvolvimento de Sistemas na ETEC Fernando Prestes de Sorocaba (SP). Possuo inglês avançado, curso de Photoshop do SENAC e curso de Programação Web que estou realizando na Udemy. 
 
-🌿  Linguagens que utilizo  no momento  C# | JavaScript | PHP
+🌿  Linguagens que utilizo  no momento  HTML & CSS| JavaScript | PHP
 
  →  Eu comecei na área da programação recentemente com o desejo de melhorar minhas habilidades tecnológicas e profissionais mas mais ainda com o desejo de evoluir em questões de maturidade, organização e determinação.
 Eu me vejo como uma pessoa de enorme potencial e acredito que a programação entrou na minha vida exatamente para isso melhorar minha tomada de decisão e foco.
 Acredito que todos tem a capacidade de programar mas o essencial para isso é o amor pela programação e o amor pelo que se faz. Por isso, mesmo iniciante, sei que estou aqui para somar e muito!
-Atualmente sou programadora Front-end Jr. na Artmaker, continuo estudando e fazendo cursos para um dia ser programadora sênior. ←
+Atualmente busco oportunidade em minha área e estudo para um dia ser programadora sênior. ←
 
 ### Sucesso a todos e até mais! 🤍
  
