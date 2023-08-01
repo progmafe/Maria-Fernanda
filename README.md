@@ -16,8 +16,8 @@ A partir disso entendi que posso trabalhar com o que eu amo e em uma área que s
 Desde então me desafio a ser melhor dia após dia, pensar fora da caixa e procurar enxergar a vida de um ponto de vista mais amplo. Me permitindo colocar em pratica minha paixão e me esforçando para me adaptar ao mercado, sem deixar meus desejos de lado. 
 
 Eu comecei na área da programação front-end e design gráfico com o desejo de melhorar minhas habilidades tecnológicas, artisticas e profissionais mas mais ainda com o desejo de evoluir em questões de maturidade, organização e determinação.
-Me vejo como uma pessoa de enorme potencial e acredito que a programação entrou na minha vida exatamente para isso melhorar minha tomada de decisão e foco e o design a tornou mais colorida. 
-Atualmente busco oportunidade em minha área e estudo dia após dia, pois a meta é ser programadora sênior. ←
+Me vejo como uma pessoa de enorme potencial e acredito que a programação entrou na minha vida exatamente para isso, melhorar minha tomada de decisão e foco e o design a tornou mais colorida. 
+Atualmente busco oportunidade em minha área e estudo dia após dia, pois a meta é ser próspera em minha carreira. ←
 
 ### Sucesso a todos e até mais! 🤍
  
