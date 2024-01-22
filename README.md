@@ -2,14 +2,15 @@
 
 # Olá Mundo!
 
-🍄  Me chamo Maria Fernanda, tenho 26 anos, sou formada no curso tecnico de Desenvolvimento de Sistemas na ETEC Fernando Prestes de Sorocaba (SP). Fiz curso de inglês avançado, curso de Photoshop do SENAC e atualmente estudo Design Gráfico na Unip.
+Olá! 🌷
 
-🌿  Linguagens que utilizo  no momento  HTML & CSS| JavaScript | PHP
+🍄  Me chamo Maria Fernanda, tenho 27 anos, sou formada no curso tecnico de Desenvolvimento de Sistemas na ETEC Fernando Prestes de Sorocaba (SP). Fiz curso de inglês avançado, curso de Photoshop do SENAC e atualmente estudo Design Gráfico na Unip.
 
  →  Gostaria de falar um pouco sobre mim e minha trajetória de auto conhecimento pessoal e profissional.
+
 Desde criança sempre fui apaixonada por artes em geral, fotografia, música, poemas. Então eu fotografava muito e passava horas no computador editando as fotos, todos os dias.
 
-Iniciei meus estudos de Design Gráfico aos 16 anos, sou apaixonada pela área. Por algumas razões precisei parar a faculdade de Design, quando então, alguns anos depois comecei o curso técnico de programação.
+Iniciei meus estudos de Design Gráfico aos 16 anos, sou apaixonada pela área. Por algumas razões precisei parar a faculdade de Design, quando alguns anos depois comecei o curso técnico de programação.
 De inicio não me enxergava como programadora, mas ao entender o que é a programação Front-End e depois de praticar, compreendi que podia unir o util ao agradável. Meus conhecimentos com criação de wireframes, layouts, cores, luz e sombra, edição de imagem complementavam meus conhecimentos de programação front-end. 
 
 A partir disso entendi que posso trabalhar com o que eu amo e em uma área que só cresce no mercado.
@@ -18,6 +19,8 @@ Desde então me desafio a ser melhor dia após dia, pensar fora da caixa e procu
 Eu comecei na área da programação front-end e design gráfico com o desejo de melhorar minhas habilidades tecnológicas, artisticas e profissionais mas mais ainda com o desejo de evoluir em questões de maturidade, organização e determinação.
 Me vejo como uma pessoa de enorme potencial e acredito que a programação entrou na minha vida exatamente para isso, melhorar minha tomada de decisão e foco e o design a tornou mais colorida. 
 Atualmente busco oportunidade em minha área e estudo dia após dia, pois a meta é ser próspera em minha carreira. ←
+
+Estou aqui para somar, no que for necessário, e espero de coração uma oportunidade de mostrar meu esforço e talento! ←
 
 ### Sucesso a todos e até mais! 🤍
  
